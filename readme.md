@@ -11,25 +11,25 @@
     </a>
 </p>
 
+## Note
+This is a WIP theme, as of now containing basic Plasma theming and a full adaptation of the Rosé Pine Moon color palette.
+
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Go to System Settings > Appearance > Plasma Style and select `Install from File...`
+2. From the cloned directory, select the subdirectory of the variant you like most
+3. Select the `tar.gz` file of the chosen variant
+4. Move the `RosePine[Variant].colors` file from the `colorschemes` subdirectory into your ``color-schemes`` directory (by default, it should be at `~/.local/share/color-schemes`. If it doesn't exist, create it)
+5. Select the color scheme from System Settings > Appearance > Colours
+6. **[OPTIONAL]** Download `AllRosePineThemesIcons.tar.gz` from [rose-pine/gtk](https://github.com/rose-pine/gtk/releases/tag/v2.0.0), decompress it and copy the folder respective to your chosen variant into `~/.local/share/icons`, then apply the icon pack through System Settings > Appearance > Icons.
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+# Rosé Pine Moon
+![Rosé Pine Moon](assets/moon-launcher.png)
+![Rosé Pine Moon](assets/moon-global-menu-panel.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Ash](https://github.com/maybork)
 
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)

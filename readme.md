@@ -14,6 +14,14 @@
 ## Note
 This is a WIP theme, as of now containing basic Plasma theming and a full adaptation of the Rosé Pine Moon color palette.
 
+## Todo
+- [ ] Other variants of the original theme
+- [ ] Window decorators
+- [ ] Widgets (I'll need some help with this one)
+- [ ] Releases
+- [ ] A global theme to streamline installation
+- [ ] KDE Store release once all above is done!
+
 ## Usage
 
 1. Go to System Settings > Appearance > Plasma Style and select `Install from File...`

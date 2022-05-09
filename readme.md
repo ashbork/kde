@@ -41,3 +41,6 @@ This is a WIP theme, as of now containing basic Plasma theming and a full adapta
 
 - [Ash](https://github.com/maybork)
 
+## Acknowledgements:
+
+- [KDE One Dark](https://github.com/Prayag2/kde_onedark) for the window decorations!

@@ -37,9 +37,13 @@ This is a WIP theme, as of now containing basic Plasma theming and a full adapta
 ![Rosé Pine Moon](assets/moon-launcher.png)
 ![Rosé Pine Moon](assets/moon-global-menu-panel.png)
 
+# Rosé Pine Dawn
+![Rosé Pine Dawn](assets/dawn-launcher.png)
+
 ## Thanks to
 
 - [Ash](https://github.com/maybork)
+- [Cuboid Raptor](https://github.com/CuboidRaptor)
 
 ## Acknowledgements:
 

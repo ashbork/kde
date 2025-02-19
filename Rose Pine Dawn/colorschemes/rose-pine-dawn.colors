@@ -1,0 +1,120 @@
+[ColorEffects:Disabled]
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=255, 250, 243
+BackgroundNormal=250, 244, 237
+DecorationFocus=144, 122, 169
+DecorationHover=86, 148, 159
+ForegroundActive=255, 250, 243
+ForegroundInactive=121, 117, 147
+ForegroundLink=144, 122, 169
+ForegroundNegative=180, 99, 122
+ForegroundNeutral=40, 105, 131
+ForegroundNormal=87, 82, 121
+ForegroundPositive=215, 130, 126
+ForegroundVisited=86, 148, 159
+
+[Colors:Complementary]
+BackgroundAlternate=255, 250, 243
+BackgroundNormal=250, 244, 237
+DecorationFocus=144, 122, 169
+DecorationHover=86, 148, 159
+ForegroundActive=255, 250, 243
+ForegroundInactive=144, 122, 169
+ForegroundLink=144, 122, 169
+ForegroundNegative=180, 99, 122
+ForegroundNeutral=40, 105, 131
+ForegroundNormal=87, 82, 121
+ForegroundPositive=215, 130, 126
+ForegroundVisited=86, 148, 159
+
+[Colors:Selection]
+BackgroundAlternate=$highlight-high
+BackgroundNormal=$highlight-med
+DecorationFocus=144, 122, 169
+DecorationHover=86, 148, 159
+ForegroundActive=255, 250, 243
+ForegroundInactive=121, 117, 147
+ForegroundLink=144, 122, 169
+ForegroundNegative=180, 99, 122
+ForegroundNeutral=40, 105, 131
+ForegroundNormal=87, 82, 121
+ForegroundPositive=215, 130, 126
+ForegroundVisited=86, 148, 159
+
+[Colors:Tooltip]
+BackgroundAlternate=255, 250, 243
+BackgroundNormal=250, 244, 237
+DecorationFocus=144, 122, 169
+DecorationHover=86, 148, 159
+ForegroundActive=255, 250, 243
+ForegroundInactive=121, 117, 147
+ForegroundLink=144, 122, 169
+ForegroundNegative=180, 99, 122
+ForegroundNeutral=40, 105, 131
+ForegroundNormal=87, 82, 121
+ForegroundPositive=215, 130, 126
+ForegroundVisited=86, 148, 159
+
+[Colors:View]
+BackgroundAlternate=255, 250, 243
+BackgroundNormal=250, 244, 237
+DecorationFocus=144, 122, 169
+DecorationHover=86, 148, 159
+ForegroundActive=255, 250, 243
+ForegroundInactive=121, 117, 147
+ForegroundLink=144, 122, 169
+ForegroundNegative=180, 99, 122
+ForegroundNeutral=40, 105, 131
+ForegroundNormal=87, 82, 121
+ForegroundPositive=215, 130, 126
+ForegroundVisited=86, 148, 159
+
+[Colors:Window]
+BackgroundAlternate=255, 250, 243
+BackgroundNormal=250, 244, 237
+DecorationFocus=144, 122, 169
+DecorationHover=86, 148, 159
+ForegroundActive=255, 250, 243
+ForegroundInactive=121, 117, 147
+ForegroundLink=144, 122, 169
+ForegroundNegative=180, 99, 122
+ForegroundNeutral=40, 105, 131
+ForegroundNormal=87, 82, 121
+ForegroundPositive=215, 130, 126
+ForegroundVisited=86, 148, 159
+
+[General]
+Name=Rosé Pine Dawn
+shadeSortColumn=false
+
+[KDE]
+contrast=0
+
+[WM]
+activeBackground=250, 244, 237
+activeBlend=87, 82, 121
+activeForeground=87, 82, 121
+frame=156, 207, 217
+inactiveBackground=250, 244, 237
+inactiveBlend=250, 244, 237
+inactiveForeground=87, 82, 121
+inactiveFrame=56,60,74

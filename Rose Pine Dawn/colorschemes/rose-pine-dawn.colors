@@ -48,7 +48,7 @@ ForegroundVisited=86, 148, 159
 
 [Colors:Selection]
 BackgroundAlternate=$highlight-high
-BackgroundNormal=$highlight-med
+BackgroundNormal=215,130,126
 DecorationFocus=144, 122, 169
 DecorationHover=86, 148, 159
 ForegroundActive=255, 250, 243
@@ -78,7 +78,7 @@ ForegroundVisited=86, 148, 159
 BackgroundAlternate=255, 250, 243
 BackgroundNormal=250, 244, 237
 DecorationFocus=144, 122, 169
-DecorationHover=86, 148, 159
+DecorationHover=215,130,126
 ForegroundActive=255, 250, 243
 ForegroundInactive=121, 117, 147
 ForegroundLink=144, 122, 169

@@ -47,8 +47,8 @@ ForegroundPositive=235, 188, 186
 ForegroundVisited=156, 207, 216
 
 [Colors:Selection]
-BackgroundAlternate=$highlight-high
-BackgroundNormal=$highlight-med
+BackgroundAlternate=235,111,146
+BackgroundNormal=49,116,143
 DecorationFocus=196, 167, 231
 DecorationHover=156, 207, 216
 ForegroundActive=31, 29, 46

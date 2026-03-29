@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for KDE Plasma</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -37,9 +37,14 @@ This is a WIP theme, as of now containing basic Plasma theming and a full adapta
 ![Rosé Pine Moon](assets/moon-launcher.png)
 ![Rosé Pine Moon](assets/moon-global-menu-panel.png)
 
+# Rosé Pine Dawn
+![Rosé Pine Dawn](assets/dawn-dolphin.png)
+![Rosé Pine Dawn](assets/dawn-settings.png)
+
 ## Thanks to
 
 - [Ash](https://github.com/maybork)
+- [Cuboid Raptor](https://github.com/CuboidRaptor)
 
 ## Acknowledgements:
 
